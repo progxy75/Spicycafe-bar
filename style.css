@@ -621,11 +621,11 @@ section{
       width: 100%;
     }
     .home .content h2{
-    font-size: 3rem;
-    line-height: 1rem;
+    font-size: 2rem;
+    line-height: 1.6rem;
     color: rgba(161, 40, 6, 0.764);
     font-family: sans-serif;
-    font-weight: 500;
-    padding: 1rem 0;
+    font-weight: 400;
+    padding: 1.5rem 0;
 }
   }
